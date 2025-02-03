@@ -4,7 +4,7 @@
       <!--This sends everything else to /public -->
       <id>nexus</id>
       <mirrorOf>*</mirrorOf>
-      <url>http://nexus-ha.dso.nsth.demo/repository/maven-proxy/</url>
+      <url>http://nexus.nsth.net/repository/maven-proxy/</url>
     </mirror>
   </mirrors>
   <profiles>
@@ -37,8 +37,8 @@
 <servers>
     <server>
       <id>nexus</id>
-      <username>Cdd-jZbf</username>
-      <password>28IQfLiSUPsd2Z8cDVNxvk_yQcttSc6_ep78NA5UaDVu</password>
+      <username>6_Wz9141</username>
+      <password>kabXACLJzNC6HR3Nag9eZ5gaGdfyXdtDabMA1A8d9KPn</password>
     </server>
   </servers>
 </settings>
